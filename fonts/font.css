@@ -1,0 +1,16 @@
+@font-face{
+	font-family:"KaushanScript";
+	src:url("../fonts/KaushanScript-Regular.ttf");
+}
+
+@font-face{
+	font-family:"Montserrat";
+	src:url("../fonts/Montserrat-Bold.ttf"),
+	url("../fonts/Montserrat-Regular.ttf");
+}
+
+@font-face{
+	font-family:"Roboto";
+	src:url("../fonts/Roboto-Bold.ttf"),
+	url("../fonts/Roboto-Regular.ttf");
+}
